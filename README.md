@@ -1,5 +1,8 @@
 <img align="center" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" alt="" />
-<h1 align="center">Hi 👋, I'm Aman Kumar</h1>
+<h1 align="center">Hi <img
+    src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
+    width="30px"
+  />, I'm Aman Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amankumarweb19&label=Profile%20views&color=0e75b6&style=flat" alt="amankumarweb19" /> </p>
