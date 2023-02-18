@@ -1,3 +1,4 @@
+<img align="center" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" alt="" />
 <h1 align="center">Hi 👋, I'm Aman Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
