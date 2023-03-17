@@ -11,13 +11,13 @@
 
 <p align="left"> <a href="https://twitter.com/aman kumar" target="blank"><img src="https://img.shields.io/twitter/follow/aman kumar?logo=twitter&style=for-the-badge" alt="aman kumar" /></a> </p>
 
-- 🔭 I worked in collaborate project [Wardrobe](https://halting-title-3346.vercel.app/)
-
 - 🌱 I’m currently learning **MongoDB ,Express , Mongoose**
 
-- 👯 I worked in collaborate project [J.Crew](https://incandescent-mooncake-91ae01.netlify.app/)
+- 🔭 I worked in collaborate project https://halting-title-3346.vercel.app/
 
-- 🤝 I worked in collaborate project [Himalaya](https://friendly-pudding-a5d011.netlify.app/homepage/)
+- 👯 I worked in collaborate project https://incandescent-mooncake-91ae01.netlify.app/
+
+- 🤝 I worked in collaborate project https://friendly-pudding-a5d011.netlify.app/homepage/
 
 - 👨‍💻 All of my projects are available at https://amankumarweb19.github.io/
 
