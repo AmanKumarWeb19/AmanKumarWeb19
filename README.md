@@ -19,7 +19,7 @@
 
 - 🤝 I worked in collaborate project https://friendly-pudding-a5d011.netlify.app/homepage/
 
-- 👨‍💻 All of my projects are available at https://amankumarweb19.github.io/
+- 👨‍💻 All of my projects are available at amankumarweb19.github.io/       
 
 - 💬 Ask me about **html,css,javaScript,React,Redux,Nodejs,MongoDb,Mongoose**
 
