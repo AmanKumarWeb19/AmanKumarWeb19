@@ -19,7 +19,7 @@
 
 - 👯 I worked in Collaborate project https://friendly-pudding-a5d011.netlify.app/homepage/
 
-- 🤝 I worked in Individual project 
+- 🤝 I worked in Individual project https://mordern-web-development.vercel.app/
 
 - 👨‍💻 All of my projects are available at https://amankumarweb19.github.io/       
 
