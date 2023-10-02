@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/aman kumar" target="blank"><img src="https://img.shields.io/twitter/follow/aman kumar?logo=twitter&style=for-the-badge" alt="aman kumar" /></a> </p>
 
-- 🌱 I’m currently learning **MongoDB ,Express , Mongoose**
+- 🌱 I’m currently learning **MongoDB ,Express , Mongoose, Tailwind CSS**
 
 - 🔭 I worked in Collaborate project https://halting-title-3346.vercel.app/
 
@@ -23,7 +23,7 @@
 
 - 👨‍💻 All of my projects are available at https://amankumarweb19.github.io/       
 
-- 💬 Ask me about **html,css,javaScript,React,Redux,Nodejs,MongoDb,Mongoose**
+- 💬 Ask me about **Html, CSS, JavaScript, React, Redux, Nodejs, MongoDb, Mongoose**
 
 - 📫 How to reach me **akgupta0524@gmail.com**
 
