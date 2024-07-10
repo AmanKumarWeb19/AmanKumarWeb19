@@ -1,4 +1,4 @@
-<img align="center" src="https://assets.zyrosite.com/Aq20eV79zLfpXV6b/web_developing-dJoGejvV7nI9KNlO.gif" alt="" />
+<img align="center" src="[https://assets.zyrosite.com/Aq20eV79zLfpXV6b/web_developing-dJoGejvV7nI9KNlO.gif](https://media.licdn.com/dms/image/D4D12AQG2-3Vm_jyYIw/article-cover_image-shrink_423_752/0/1693753179836?e=1726099200&v=beta&t=zijCh5INtJPzgmKSv9iPlEtx36fAUgcFaooYLNkIpBk)" alt="" />
 <h1 align="center">Hi <img
     src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
     width="30px"
