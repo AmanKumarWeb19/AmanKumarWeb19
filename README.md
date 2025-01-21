@@ -5,8 +5,7 @@
   />, I'm Aman Kumar</h1>
 
 
-<h1 align="center">/>💫 About Me: A passionate frontend developer from India</h1>
- ## 💫 About Me: A passionate frontend developer from India
+<h1 align="center">💫 A passionate frontend developer from India</h1>
 
 🌱 I’m currently learning MongoDB ,Express , Mongoose, Tailwind CSS<br><br>🔭 I worked in Collaborate project https://halting-title-3346.vercel.app/<br><br>🤝 I worked in Individual project https://burger-project-app.netlify.app/<br><br>👯 I worked in Collaborate project https://friendly-pudding-a5d011.netlify.app/homepage/<br><br>🤝 I worked in Individual project https://mordern-web-development.vercel.app/<br><br>👨‍💻 All of my projects are available at https://amankumarweb19.github.io/<br><br>💬 Ask me about Html, CSS, JavaScript, React, Redux, Nodejs, MongoDb, Mongoose<br><br>📫 How to reach me akgupta0524@gmail.com<br><br>⚡ Fun fact Fun fact Even after reading so much, why does it seem that nothing comes at all.
 
